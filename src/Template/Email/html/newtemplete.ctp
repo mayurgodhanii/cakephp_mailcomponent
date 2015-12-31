@@ -19,9 +19,8 @@ use Cake\Core\Configure;
                         <center>
                             <a  style="color:white; text-decoration:none;" href="#">
                                 <h1>
-                                    <img src="http://openxcell.com/ims/img/businessInquiry-logo.png" alt="<?php echo Configure::read('SITE_TITLE'); ?>" />
-                                </h1>
-                                <!--<img width="143px" height="36px" style="display:block; padding:19px;" src="logo.png" alt="<?php // echo Configure::read('SITE_TITLE');            ?>" />-->
+                                    <img src="http://openxcell.com/ims/img/businessInquiry-logo.png" alt="Openxcell" />
+                                </h1>                                
                             </a>
                         </center>
                 </td>
