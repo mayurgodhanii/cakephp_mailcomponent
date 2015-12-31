@@ -1,6 +1,4 @@
-# cakephp_mailcomponent
-
-Cakephp 3.0 Mail Component
+# Cakephp 3.0 Mail Component
 
 Step 1: In your controller put below two lines
  public function initialize() {
